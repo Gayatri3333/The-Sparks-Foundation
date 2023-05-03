@@ -1,5 +1,3 @@
-https://colab.research.google.com/drive/10z_yftpKR-Sz3szml-mBnhPcO1_cvxYe?usp=share_link 
-
 TASK 1: PREDICTION USING SUPERVISED ML
 
 # Importing the dataset and the required libraries
